@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
 body{
+  text-align : justify;
   background-color: black;
   color: rgb(255, 245, 215);
   font-family: 'Orbit', sans-serif;
