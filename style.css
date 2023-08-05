@@ -6,6 +6,9 @@ body{
   font-family: 'Orbit', sans-serif;
   padding: 10px 70px 50px 70px;
 }
+.main{
+  color: white;
+}
 a:link{
   color: rgb(255, 240, 215);
   text-decoration-line: none;
