@@ -2,9 +2,12 @@
 body{
   text-align : justify;
   background-color: black;
-  color: rgb(0, 255, 205);
+  color: rgb(0, 255, 255);
   font-family: 'Orbit', sans-serif;
   padding: 10px 70px 50px 70px;
+}
+hr{
+  background-color: rgb(0, 255, 255);
 }
 a:link{
   color: rgb(255, 235, 0);
